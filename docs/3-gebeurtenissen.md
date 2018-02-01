@@ -1,8 +1,6 @@
 # Gebeurtenissen
 
-Gebeurtenissen zijn de aanleiding voor fysieke en administratieve gebeurtenissen.
-
-trigger kan zijn een fysieke verandering aan de weg, of een administratieve wijziging van een kenmerk van een weg.
+Gebeurtenissen zijn voorvallen die plaatsvinden die tot veranderingen kunnen leiden in de registraties van NWB en BGT. De trigger kan zijn een fysieke verandering aan de weg, of een administratieve wijziging van een kenmerk van een weg.
 
 Gebeurtenissen leiden tot **activiteiten** aan de kant van ofwel de wegbeheerder ofwel de bronhouder van de BGT. 
 
