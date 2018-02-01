@@ -12,6 +12,9 @@ Bij gemeenten, provincies, waterschappen en Rijkswaterstaat houdt men dus zowel 
 
 De mate waarin een organisatie haar processen kan inrichten en optimaliseren, hangt nauw samen met de mate van invloed die zij op die processen kan uitoefenen. Een _organisatie die het werk zelf uitvoert_, kan invloed uitoefenen op alle aspecten van deze uitvoering. Een _organisatie die taken uitbesteedt_, bijvoorbeeld aan een een verkeerskundig adviesbureau of ingenieursbureau, kan veelal alleen invloed uitoefenen op de input en de output van de werkzaamheden, niet op de uitvoering zelf. Dit is van invloed op de mate waarin processen daadwerkelijk kunnen worden geoptimaliseerd.
 
+Ook als de werkzaamheden ‘in huis’ worden uitgevoerd, is er sprake van variatie bij de inrichting van de betreffende processen. Deze
+kunnen bij één afdeling zijn belegd, of verdeeld zijn over meerdere organisatieonderdelen. Dit heeft invloed op de mate van optimalisatie die kan worden bereikt. Sommige organisaties zijn dermate groot, dat het verdelen van werkzaamheden over meerdere afdelingen hetzelfde effect kan hebben als het uitbesteden aan een derde partij.
+
 ## Aanleveren en verwerken van gegevens
 Het aanleveren van gegevens voor het **NWB kent geen wettelijke verplichting**: wegbeheerders leveren op vrijwillige basis in een niet-gestandaardiseerd formaat de weggegevens aan het NWB-loket. In de praktijk komt dit er op neer dat ongeveer 2/3 van de gemeentelijke wegbeheerders gegevens _niet_ levert voor het NWB; wegbeheerders van provincies en Rijkswaterstaat leveren de gegevens wel aan.
 
