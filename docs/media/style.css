@@ -20,7 +20,11 @@ body {
 }
 
 nav {
-	background-color: #5b3 !important;
+	background-color: #4ba829 !important;
 	color: #fff !important;
 	font-family: 'Raleway', sans-serif !important;	
+}
+
+tocxref {
+	color: #fff !important;
 }
