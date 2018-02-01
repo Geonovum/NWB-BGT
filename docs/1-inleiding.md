@@ -1,8 +1,7 @@
-Inleiding
-=========
+# Inleiding
 
-Doel
+## Doel
 
-Aanleiding
+## Aanleiding
 
-Afbakening
+## Afbakening
