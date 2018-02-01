@@ -1,5 +1,4 @@
-Bijlage Betrokken bij het opstellen van het model
-=================================================
+## Bijlage Betrokkenen bij het opstellen van het model
 
 **Opdrachtgever**
 
