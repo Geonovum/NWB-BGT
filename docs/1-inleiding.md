@@ -9,6 +9,3 @@ Ons beeld is dat NWB en de BGT binnen een organisatie door verschillende persone
 Dit document richt zich op de samenhang in bijhouding van gegevens met betrekking tot wegen in het NWB en de BGT. Spoorwegen en vaarwegen worden buiten beschouwing gelaten.
 
 Dit document richt zich op het zo goed mogelijk aan elkaar doorgeven van signalen van wijzigingen in de registraties en het aangeven van signaleringen als in de andere registratie een onvolledige of onjuiste weergave van de werkelijkheid wordt geconstateerd.
-
-## Doel
-Het document dat voor u ligt, is bedoeld om gemeenten, provincies, waterschappen en Rijkswaterstaat te helpen bij het verder optimaliseren van de activiteiten en processen rondom de bijhouding van het NWB en BGT. We beschrijven het proces en betrokkenen rond de bijhouding van Nationaal Wegenbestand (NWB) en de Basisregistratie Grootschalige Topografie (BGT). We stellen een checklist met gebeurtenissen en activiteiten die leiden tot wijzigingen in NWB en/of BGT ter beschikking waarmee organisaties hun eigen werkprocessen kunnen analyseren en indien nodig verbeteren. Tenslotte schetsen we de mogelijkheden om elkaar aan beide kanten op de hoogte houden door het sturen of oppikken van signalen en het uitwisselen van relevante gegevens.
