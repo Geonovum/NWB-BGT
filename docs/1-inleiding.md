@@ -9,8 +9,17 @@ Dit document richt zich op de samenhang in bijhouding van gegevens met betrekkin
 Dit document richt zich op het zo goed mogelijk aan elkaar doorgeven van signalen van wijzigingen in de registraties en het aangeven van signaleringen als in de andere registratie een onvolledige of onjuiste weergave van de werkelijkheid wordt geconstateerd.
 
 ## Bijhouding NWB en BGT
+Wegbeheerders zijn ve
+
+
+BGT bronhouders
+
+
+
+
 De verwerking van generieke weginformatie ten behoeve van het NWB en de BGT vindt in diverse vormen plaats. 
-1. Bijhouding vindt in soms hetzelfde proces plaats (het vastleggen van zowel vlak-gegevens als hartlijn-gegevens) en worden daarbij vanuit hetzelfde proces aangeleverd aan zowel de LV-BGT als het NWB-loket van RWS.  
-2. Bijhouding vindt in andere organisaties in gescheiden processen plaats waarbij bij de vastlegging van de hartlijnen niet de BGT wordt gebruikt als basis.  Tot slot vindt bijhouding ten behoeve van het NWB  bij ene groot aantal gemeenten niet plaats.
-Daarnaast valt op dat de bijhouding in type omgevingen plaatsvindt zoals op een afdeling BGT of een afdeling Verkeer. 
+1. Bijhouding vindt in soms hetzelfde proces plaats (het vastleggen van zowel vlak-gegevens als hartlijn-gegevens) en worden daarbij vanuit hetzelfde proces aangeleverd aan zowel de Landelijke Voorziening BGT als het NWB-loket van Rijkswaterstaat.  
+2. Bijhouding vindt in gescheiden processen bij andere organisaties of afdelingen plaats, waarbij (veelal) bij de vastlegging van de hartlijnen niet de BGT wordt gebruikt als basis. Bijvoorbeeld separaat wordt bijgehouden bij de afdeling BGT en de afdeling Verkeer.
+3. Bijhouding ten behoeve van het NWB vindt niet plaats.
+
 
