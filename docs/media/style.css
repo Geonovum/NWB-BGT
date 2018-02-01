@@ -25,8 +25,12 @@ nav {
 	font-family: 'Raleway', sans-serif !important;	
 }
 
-.toc a {
+.toc {
 	color: #fff !important;
+}
+
+.tocline {
+	
 }
 
 h1, h2, h3 {
