@@ -4,7 +4,7 @@ De term **wegbeheerder** wordt gebruikt voor de instantie of rechtspersoon die e
 
 De term **bronhouder** wordt gebruikt voor de instantie of rechtspersoon, die gegevens over topografische objecten bijhoudt en aanlevert in het kader van de BGT. De BGT kent de volgende bronhouders: gemeenten, provincies, waterschappen, Rijkswaterstaat, Prorail, Defensie en Rijksdienst voor Ondernemend Nederland.
 
-## Proces van bijhouding
+## Variatie in organisaties
 Bij gemeenten, provincies, waterschappen en Rijkswaterstaat houdt men dus zowel gegevens bij in het kader van het NWB als de BGT. Binnen deze organisaties kan het proces van bijhouding als volgt zijn georganiseerd:
 1. Bijhouding vindt in _hetzelfde proces_ plaats (het vastleggen van zowel vlak-gegevens als hartlijn-gegevens) en worden daarbij vanuit hetzelfde proces aangeleverd aan zowel de Landelijke Voorziening BGT als het NWB-loket van Rijkswaterstaat.  
 2. Bijhouding vindt _in gescheiden processen_ bij andere organisaties of afdelingen plaats, waarbij (veelal) bij de vastlegging van de hartlijnen niet de BGT wordt gebruikt als basis. Bijvoorbeeld separaat wordt bijgehouden bij de afdeling BGT en de afdeling Verkeer.
