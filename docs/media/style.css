@@ -26,7 +26,7 @@ nav {
 }
 
 
-.tocline, .secno, .toc a {
+.tocline, .tocxref .secno, .toc a {
 color: #fff !important;	
 }
 
