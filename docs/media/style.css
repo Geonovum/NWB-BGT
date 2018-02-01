@@ -28,3 +28,8 @@ nav {
 .toc a {
 	color: #fff !important;
 }
+
+h1, h2, h3 {
+	color: #000 !important;
+	
+}
