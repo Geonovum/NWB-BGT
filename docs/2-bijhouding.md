@@ -1,4 +1,4 @@
-# Bijhouding van NWB en BGT
+## Bijhouding van NWB en BGT
 
 De term **wegbeheerder** wordt gebruikt voor de instantie of rechtspersoon die een (deel van de) weg beheert en hierover gegevens bijhoudt en aanlevert aan het NWB. Het NWB kent de volgende wegbeheerders: gemeenten, provincies, waterschappen, en Rijkswaterstaat.
 
