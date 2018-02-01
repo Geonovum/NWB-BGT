@@ -25,12 +25,9 @@ nav {
 	font-family: 'Raleway', sans-serif !important;	
 }
 
-.toc {
-	color: #fff !important;
-}
 
-.tocline {
-	
+.tocline, .secno, .toc a {
+color: #fff !important;	
 }
 
 h1, h2, h3 {
