@@ -2,11 +2,10 @@
 
 Activiteiten uit gebeurtenissen leiden tot het wijzigen van gegevens in de registraties van NWB en/of BGT. Als de ene partij aanpast, zal de andere partij mee moeten aanpassen om beide registraties actueel en consistent met elkaar te houden. Dat betekent dat als de BGT wordt aangepast er op de ene of andere manier een signaal van bronhouder naar wegbeheerder moet gaan, en vice versa, zodanig dat wijzigingen die relevant zijn voor de andere partij worden opgemerkt.
 
-In dit kader onderscheiden we twee typen signalen: een mutatie en een melding.
+In dit kader onderscheiden we twee typen signalen:
 
-Met een **mutatie** bedoelen we een signaal in de vorm van een gegevensbestand in een vast uitwisselformaat waarin de wijziging (was-wordt) van één of meer kenmerken van het object exact wordt doorgegeven. Software kan deze wijziging veelal automatisch overnemen in registraties.
-
-Met een **melding** bedoelen we een signaal dat er een wijziging in een bepaald gebied heeft plaatsgevonden, waarin wordt beschreven (toelichtende tekst) op welke manier gegevens zijn gewijzigd of geconstateerd zijn dat deze gegevens afwijken. De ontvanger van een melding zal zelf onderzoek moeten doen op welke manier deze gegevens al dan niet overgenomen moeten worden in registraties. Veelal worden meldingen achteraf verstuurd door gebruikers die een wijziging of onjuistheid in de gegevens hebben geconstateerd (=signalering).
+1. Met een **mutatie** bedoelen we een signaal in de vorm van een gegevensbestand in een vast uitwisselformaat waarin de wijziging (was-wordt) van één of meer kenmerken van het object exact wordt doorgegeven. Software kan deze wijziging veelal automatisch overnemen in registraties.
+2. Met een **melding** bedoelen we een signaal dat er een wijziging in een bepaald gebied heeft plaatsgevonden, waarin wordt beschreven (toelichtende tekst) op welke manier gegevens zijn gewijzigd of geconstateerd zijn dat deze gegevens afwijken. De ontvanger van een melding zal zelf onderzoek moeten doen op welke manier deze gegevens al dan niet overgenomen moeten worden in registraties. Veelal worden meldingen achteraf verstuurd door gebruikers die een wijziging of onjuistheid in de gegevens hebben geconstateerd (=signalering).
 
 Hierna zullen we een aantal bestaande kanalen schetsen waarin meldingen en mutaties voor NWB en BGT worden uitgewisseld. Organisaties kunnen hier voor hun eigen bijhoudingsproces op aansluiten. Welk kanaal een organisatie kiest, laten we graag over aan de bronhouder en wegbeheerder van een organisatie.
 
