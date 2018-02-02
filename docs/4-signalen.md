@@ -10,7 +10,7 @@ Met een **melding** bedoelen we een signaal dat er een wijziging in een bepaald 
 
 Hierna zullen we een aantal bestaande kanalen schetsen waarin meldingen en mutaties voor NWB en BGT worden uitgewisseld. Organisaties kunnen hier voor hun eigen bijhoudingsproces op aansluiten. Welk kanaal een organisatie kiest, laten we graag over aan de bronhouder en wegbeheerder van een organisatie.
 
-## Mutaties van en meldingen naar NWB: 
+## Mutaties van en meldingen naar NWB 
 
 Gegevens van het NWB zijn beschikbaar in verschillende producten als downloads via Rijkswaterstaat [https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/]: o.a. een volledig bestand NWB-Wegen, en een bestand met wijzigingen in het netwerk tussen twee peildatums, zijnde **NWB-wegen mutaties**. Met een mutatiecode wordt aangegeven of een wegvak in die periode is vervallen, gewijzigd of ontstaan. Deze mutaties worden beschikbaar gesteld in de uitleverformaten Geographic Data Files (GDF) en Shape , Arc Info Coverage (AIC) of Arc Info Export (AIE).  
 
