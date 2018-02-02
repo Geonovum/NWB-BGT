@@ -25,3 +25,39 @@ Het verwerken van gegegvens in het NWB gaat als volgt:
 2.	Van het overig areaal worden door het NWB-loket zelf signalen verzameld vanuit diverse bronnen (google, BRT, politie) in verschillende formaten en verwerkt in het NWB.
 
 Het verwerken van gegevens van bronhouders in de Landelijke Voorziening BGT gaat via een geautomatiseerd proces waarbij gegevens na controle worden overgenomen in de centrale registraties en beschikbaar gesteld aan afnemers via PDOK.
+
+## Aandachtspunten
+
+	NWB kent verschillende informatiebehoeften :
+–	Structureel : Waar een weg voor is ontworpen (oa voor modellen/berekeningen)
+–	Korte termijn : Voor onder meer verkeersmanagement is snel inzicht in de nieuwe / gewijzigde situatie gewenst
+	Tijdelijke wegen (als ze korter dan 6 maanden bestaan) komen niet in de BGT; wel nodig voor NWB (als ze langer dan 6 weken bestaan ). 
+	Actualiteit NWB : maandelijks, daarom moet 6 weken (mogelijk naar 8 weken) voor openstelling weg gegevens aangeleverd zijn. Deze actualiteit is vooral van belang voor  verkeersmanagement en hulpdiensten.
+	Actualiteit BGT : werkt op basis van de gerealiseerde situatie die binnen 6 maanden verwerkt moeten zijn.
+	Plantopografie is in BGT niet aanwezig, maar voor NWB-wegen juist waardevol .
+	Ten behoeve van signaleringen wordt ook het gebruik van informatie uit navigatiesystemen aanbevolen omdat daarin aan de hand van het verkeer inzichtelijk wordt dat er ergens een wegwijziging of vernadering van rijrichting heeft plaatsgevonden. 
+
+**Wensen voor het NWB**
+
+	Stimuleren / verplichten aanlevering door álle bronhouders, om de informatievoorziening te verbeteren om tot een gezamenlijke landelijke dataset te komen met een regime wat tegen de basisregistraties aanligt. Ook gemeenten zelf hebben hier voordeel bij voor de interne ionformatievoorziening en naar burgers, alsmede terugdringen door opwerken lokale datasets door marktpartijen die dit in ‘india’ laten opwerken.
+	Actualiteit NWB ivm verkeersmanagement en hulpdiensten (meldkamer en administratieve processen) zo hoog mogelijk – hoogste actualiteitseis bij hoofdwegennet (ca 20.000 km)
+	Korte termijn  : NWB voor actuele situatie baseren op BGT  
+–	voordeel : landsdekkend dezelfde gegevens 
+–	voor hoofdwegennet is deze actualiteit niet hoog genoeg, voor het ‘lagere’ wegennet is dat wel acceptabel.
+	3D –z-coordinaat of relatieve hoogte om onder meer vast te leggen dat wegen elkaar ongelijkvloers kruisen
+	Aanbrengen van gradatie in acualiteitseisen naar gelang het belang van de weg
+	Idee :  Gebruik ‘Verbeter de Kaart’ om ook afwijkingen in NWB door te geven
+	Geautomatiseerd overnemen door NWB-loket RWS, waardoor werkproces bij RWS sterk wordt vereenvoudigd. Terugbrengen van aanlevering aan NWB-loket RWS van verschillende formaten tot één uniform formaat.
+
+**Wensen voor de BGT**
+	Lange(re) termijn : Uitbreiden van BGT (verplichte deel van IMGeo) met de hartlijn (vooral plantopografie als ook realisatiefase). Deze gegevens zijn beschikbaar bij bronhouder.
+	Ook datum meegeven bij plantopografie wanneer weg open gaat. Daardoor extra wenselijke tussenstap tussen plantopografieb en definitieve inmeting BGT : ook zsm inzicht dat nieuwe/gewijzigde situatie operationeel is
+
+**Samenhang NWB en BGT**
+	Bijhouding NWB en BGT bij gemeente/provincie-bronhouder vanuit één proces. 
+
+**Overige wensen**
+	In een latere stap de BAG er bij betrekken omdat hier vanuit gemeenten mogelijkheden worden
+	Ook in een later stadium BOR er bij betrekken omdat daar ook aanknopingspunten met gegevens voor het NWB zitten (en vice versa)
+
+
