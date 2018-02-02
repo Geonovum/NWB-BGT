@@ -31,17 +31,6 @@ Meldingen over geconstateerde wijzigingen/onjuistheden van BGT-gegevens worden o
 
 door de Geo-afdeling in een organisatie verstuurd naar de afdeling Beheer Openbare Ruimte (BOR), die deze gegevens nodig heeft voor groenbeheer, wegbeheer e.d. De mutaties worden uitgewisseld in een StUF-Geo IMGeo mutatiebericht.
 
-
-
-
-
-
-
-
-
-
-
-
 ## Relevante mutaties
 
 Niet alle wijzigingen in de registraties van NWB en BGT zijn van belang voor de de andere partij. Bijvoorbeeld het wijzigen van een wegbeheerdercode in het NWB heeft geen vloed op de gegevens van een wegdeel in de BGT, en het wijzigen van het type verharding van een wegdeel in de BGT is niet van belang voor het wegvak in het NWB. Daarom schetsen we hierna welke gegevens in NWB en BGT een relatie hebben met elkaar (mapping). 
