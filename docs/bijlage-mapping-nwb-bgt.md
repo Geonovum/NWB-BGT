@@ -1,9 +1,4 @@
-Signalen
-
-Als gevolg van gebeurtenissen en daarmee samenhangede activiteiten zullen
-gegevens in de registraties van NWB en/of BGT wijzigen.
-
-Relevante gegevens
+## Bijlage Mapping NWB wegvak en BGT Wegdeel
 
 In onderstaande tabel wordt een mapping gemaakt tussen gegevens in het NWB en de
 BGT.
