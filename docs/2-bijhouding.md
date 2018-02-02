@@ -50,13 +50,16 @@ Het verwerken van gegevens van bronhouders in de Landelijke Voorziening BGT gaat
 13. Geautomatiseerd overnemen door NWB-loket RWS, waardoor werkproces bij RWS sterk wordt vereenvoudigd. Terugbrengen van aanlevering aan NWB-loket RWS van verschillende formaten tot één uniform formaat.
 
 **Wensen voor de BGT**
+
 14. Lange(re) termijn : Uitbreiden van BGT (verplichte deel van IMGeo) met de hartlijn (vooral plantopografie als ook realisatiefase). Deze gegevens zijn beschikbaar bij bronhouder.
 15. Ook datum meegeven bij plantopografie wanneer weg open gaat. Daardoor extra wenselijke tussenstap tussen plantopografieb en definitieve inmeting BGT : ook zsm inzicht dat nieuwe/gewijzigde situatie operationeel is
 
 **Samenhang NWB en BGT**
+
 16. Bijhouding NWB en BGT bij gemeente/provincie-bronhouder vanuit één proces. 
 
 **Overige wensen**
+
 17. In een latere stap de BAG er bij betrekken omdat hier vanuit gemeenten mogelijkheden worden
 18. Ook in een later stadium BOR er bij betrekken omdat daar ook aanknopingspunten met gegevens voor het NWB zitten (en vice versa)
 
