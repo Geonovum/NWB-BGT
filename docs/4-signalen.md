@@ -36,11 +36,11 @@ Niet alle wijzigingen in de registraties van NWB en BGT zijn van belang voor de 
 
 **Objecten**
 
-In de BGT
+...
 
 **Geometrie**
 
-Het wijzigen van de ligging van een wegvak 
+...
 
 **Attributen**
 
