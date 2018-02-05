@@ -18,6 +18,8 @@ Een melding met een geconstateerde wijzigingen en/of opmerkingen betreffende het
 ## Mutaties van en meldingen naar BGT
 Mutaties van en meldingen op BGT-gegevens kunnen via verschillende kanalen worden afgenomen of doorgegeven. Onderstaande figuur toont de uitwisseling van mutaties en meldingen in de BGT-keten.
 
+![](media/bgt-referentiemodel.png)
+
 Mutaties op BGT objecten worden op drie plekken in de BGT keten uitgewisseld:
 1. Via **PDOK** worden de gegevens in de Landelijke Voorziening verstrekt aan afnemers via **web service (WMTS) en GML en StUF-Geo IMGeo downloads** van totaalstanden. Op dit moment (februari 2018) werkt PDOK aan een generiek XML/GML-uitwisselformaat voor levering van mutaties in verschillende basisregistraties (BGT, BRK, BAG) aan afnemers.
 2. Via **BRAVO** worden **via een abonnementenservice de mutaties** door andere bronhouders verstuurd naar geraakte bronhouders. De mutaties worden uitgewisseld in een StUF-Geo IMGeo mutatiebericht.
@@ -26,9 +28,7 @@ Mutaties op BGT objecten worden op drie plekken in de BGT keten uitgewisseld:
 Meldingen over geconstateerde wijzigingen/onjuistheden van BGT-gegevens worden op drie plekken in de BGT keten doorgegeven aan bronhouders:
 1. Via **Verbeterdekaart** kan een gebruiker van BGT-gegevens een **terugmelding** doen, door het prikken van een puntlocatie op een interactieve kaart en een toelichting te geven over de geconstateerde afwijking tussen kaart en werkelijkheid. Verbeterdekaart is het offciële terugmeldsysteem (TMS) voor de BGT.
 2. Via het **MutatieMeldSysteem** (MMS) van het SVB-BGT kunnen bronhouders de interne werkvoorraad met openstaande meldingen op BGT-gegevens en in-te-meten gebieden bijhouden. 
-3. In het **Geo-BOR koppelvlak** kan een BOR-beheerder   
-
-door de Geo-afdeling in een organisatie verstuurd naar de afdeling Beheer Openbare Ruimte (BOR), die deze gegevens nodig heeft voor groenbeheer, wegbeheer e.d. De mutaties worden uitgewisseld in een StUF-Geo IMGeo mutatiebericht.
+3. In het **Geo-BOR koppelvlak** kan een BOR-beheerder een verzoek doen aan de Geo-afdeling om een bepaald gebied te onderzoeken en evt. opnieuw in te meten. Dit verzoek wordt uitgewisseld in een StUF-Geo IMGeo exploratieverzoek.
 
 ## Relevante mutaties
 
