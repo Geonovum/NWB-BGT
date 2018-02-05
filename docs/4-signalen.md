@@ -18,7 +18,7 @@ Een melding met een geconstateerde wijzigingen en/of opmerkingen betreffende het
 ## Mutaties van en meldingen naar BGT
 Mutaties van en meldingen op BGT-gegevens kunnen via verschillende kanalen worden afgenomen of doorgegeven. Onderstaande figuur toont de uitwisseling van mutaties en meldingen in de BGT-keten.
 
-![](media/bgt-referentiemodel.png)
+![](media/bgt_referentiemodel.png)
 
 Mutaties op BGT objecten worden op drie plekken in de BGT keten uitgewisseld:
 1. Via **PDOK** worden de gegevens in de Landelijke Voorziening verstrekt aan afnemers via **web service (WMTS) en GML en StUF-Geo IMGeo downloads** van totaalstanden. Op dit moment (februari 2018) werkt PDOK aan een generiek XML/GML-uitwisselformaat voor levering van mutaties in verschillende basisregistraties (BGT, BRK, BAG) aan afnemers.
