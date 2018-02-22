@@ -1,5 +1,4 @@
-Leveren en melden van mutaties
-==============================
+# Leveren en melden van mutaties
 
 Fysieke of administratieve veranderingen aan wegen of besluiten die dat
 ondersteunen leiden veelal tot het wijzigen van gegevens van wegen in NWB en/of
@@ -10,23 +9,20 @@ registraties aan de andere partij te leveren en door bij het signaleren van
 mogelijke onjuistheden in de andere registratie dit aan de andere partij te
 melden.
 
+## Aanleiding voor leveren of melden
 We onderscheiden drie situaties als **aanleiding** voor het leveren of melden
 van mutaties.
 
 1.  De ene partij muteert de eigen gegevens en levert deze mutaties aan de
     andere partij.
-
 2.  De ene partij signaleert dat de situatie in de eigen registratie niet juist
     is, muteert de gegevens in de eigen registratie en levert deze mutaties aan
     de andere partij.
-
 3.  De ene partij signaleert dat de situatie bij de andere partij een mogelijke
     onjuistheid bevat, en meldt dit terug aan de andere partij, die hierop de
     gegevens in de eigen registratie kan aanpassen.
 
-Mutatie- en meldservices
-------------------------
-
+## Mutatie- en meldservices
 Voor het leveren van mutaties en het melden van verschillen onderscheiden we
 mutatieservices en meldservices. Een mutatie in de eigen partij wordt via een
 **mutatieservice** geleverd aan de andere partij. Een signalering van een
@@ -35,39 +31,33 @@ mogelijke onjuistheid bij de andere partij wordt gemeld via een **meldservice**.
 Er zijn diverse **bestaande services, portalen en koppelingen** waar NWB en BGT
 op kunnen aansluiten.
 
+### Aansluiten op de BGT als wegbeheerder
 Bent **wegbeheerder** dan kunt u **gegevens afnemen van de BGT** via de
 mutatieservices:
 
 -   **PDOK** is het distributiekanaal van de BGT\|IMGeo gegevens aan afnemers.
     De gegevens zijn open data en worden beschikbaar gesteld als
-    <https://www.pdok.nl/nl/producten/pdok-downloads/download-basisregistratie-grootschalige-topografie>
-    complete BGT download in de bestandsformaten IMGeo GML, GML Light en
+    complete (download)[https://www.pdok.nl/nl/producten/pdok-downloads/download-basisregistratie-grootschalige-topografie]
+    in de bestandsformaten IMGeo GML, GML Light en
     StUF-Geo IMGeo en via
-    <https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/b> BGT
-    webservices (WMTS/TMS). Op moment van schrijven ontwikkelt PDOK een generiek
-    formaat voor het leveren van mutaties per objecttype via een API, en wordt
+    (webservices)[https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/b] in de formaten WMTS en TMS. Op moment van schrijven ontwikkelt PDOK een generiek formaat voor het leveren van mutaties per objecttype via een API, en wordt
     gewerkt aan de uitbreiding van de webservices met een WMS en WFS.
-
--   In het
-    https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11
-    **Geo-BOR berichtenverkeer** levert de BGT-afdeling in een organisatie
-    mutaties naar beheerders van de openbare ruimte (bijv. groen, wegen, water)
+-   In het **(Geo-BOR berichtenverkeer)[https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11]**
+     levert de BGT-afdeling in een organisatie mutaties naar beheerders van de openbare ruimte (bijv. groen, wegen, water)
     via StUF-Geo IMGeo mutatieberichten.
 
 en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 
--   <https://verbeterdekaart.kadaster.nl/> VerbeterdeKaart is het officiële
+-   (VerbeterdeKaart)[https://verbeterdekaart.kadaster.nl/] is het officiële
     terugmeldsysteem van de Basisregistratie Grootschalige Topografie (BGT). Met
     dit systeem kunnen gebruikers een mogelijke onjuistheid melden door het
     prikken van een puntlocatie op een interactieve kaart en het toevoegen van
     een toelichting.
-
 -   Het **MutatieMeldSysteem** (MMS) van het SVB-BGT helpt bronhouders de
     interne werkvoorraad met openstaande meldingen op BGT-gegevens en
     in-te-meten gebieden bijhouden. Als een bronhouder de wegbeheerder in de
     eigen organisatie toegang geeft kan ook de wegbeheerder meldingen toevoegen
     aan de voorraad.
-
 -   In het
     https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11
     **Geo-BOR koppelvlak** kan een beheerder van de openbare ruimte (groen,
