@@ -13,7 +13,7 @@ Om de gebeurtenissen te ordenen onderscheiden we de procedures Wijzigingen en
 Signaleringen. De procedure **Wijzigingen** omvat alle gebeurtenissen en
 activiteiten naar aanleiding van een een fysieke of administratieve verandering
 van een weg. De procedure **Signaleringen** omvat alle gebeurtenissen en
-activiteiten naar aanleiding van de constatering van verandering aan een weg.
+activiteiten naar aanleiding van de constatering van (een verandering) aan een weg.
 
 **Administratieve gebeurtenissen bij Wijzigingen** zijn:
 -   vaststellen ontwerp weg
