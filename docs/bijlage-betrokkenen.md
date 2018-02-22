@@ -1,4 +1,5 @@
-## Bijlage Betrokkenen bij het opstellen van het model
+Bijlage Betrokkenen bij het opstellen van het model
+---------------------------------------------------
 
 **Opdrachtgever**
 
@@ -20,8 +21,6 @@ Linda Bannink (provincie Noord-Holland)
 
 Stefan van Gerwen (provincie Noord-Brabant)
 
-Bram Schiltmans (Rijkswaterstaat)
-
 **Klankbordsessie 25 januari 2018**
 
 Adrie de Jong (Bedrijfsvoeringsorganisatie West-Betuwe)
@@ -40,7 +39,7 @@ Jan Hilhorst (Meerinzicht)
 
 Joop Voortman (gemeente Rijssen-Holten)
 
-Jort Dijkers (Rijkswaterstaat)
+Jo Duijkers (Rijkswaterstaat)
 
 Leon Baanders (Bureau Kragten)
 
@@ -57,3 +56,31 @@ Richard Wittmer (Kadaster)
 Rob van der Schoot (Rijkswaterstaat)
 
 **Klankbordsessie 8 februari 2018**
+
+Adrie de Jong (Bedrijfsvoeringsorganisatie West-Betuwe)
+
+Bart van der Lely (Sweco)
+
+Bas Bussink (gemeente Amsterdam)
+
+Dick Kremer (Kadaster)
+
+Dyonne de Mari (Transfer Solutions)
+
+Erik van Ooijen (provincie Zuid-Holland)
+
+Jan Dorrestijn (gemeente Amersfoort)
+
+Jo Duijkers (Rijkswaterstaat)
+
+Leon Baanders (Bureau Kragten)
+
+Lucas Broekema (Bureau Kragten)
+
+Martin Kraan (Kadaster)
+
+Patrick Meeuwisse (ARCADIS)
+
+Richard Witmer (Kadaster)
+
+Rob van der Schoot (Rijkswaterstaat)
