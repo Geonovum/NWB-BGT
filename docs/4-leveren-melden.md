@@ -89,7 +89,7 @@ is als een losse bijlage beschikbaar.
 
 ![](media/b35c113b779b98b0f8dc463b79506253.png)
 
-## Relevante NWB en BGT gegevens
+## Relevante NWB en BGT mutaties
 Niet elke wijziging van gegevens in de registratie van NWB of BGT is van belang
 voor de andere partij. Bijvoorbeeld het wijzigen van een wegbeheerdercode in het
 NWB heeft geen vloed op de gegevens van een wegdeel in de BGT, en het wijzigen
