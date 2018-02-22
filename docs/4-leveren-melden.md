@@ -4,22 +4,22 @@ Fysieke of administratieve veranderingen aan wegen of besluiten die dat
 ondersteunen leiden veelal tot het wijzigen van gegevens van wegen in NWB en/of
 BGT. Als NWB en BGT niet in één proces worden bijgehouden - d.w.z. wegbeheerder
 en BGT bronhouder voeren elk apart de wijzigingen in de eigen registratie door –
-is het van belang om elkaar te **informeren** door mutaties in de eigen
+is het van belang om **elkaar** te **informeren** door mutaties in de eigen
 registraties aan de andere partij te leveren en door bij het signaleren van
 mogelijke onjuistheden in de andere registratie dit aan de andere partij te
 melden.
 
-## Aanleiding voor leveren of melden
-We onderscheiden drie situaties als **aanleiding** voor het leveren of melden
+## Aanleiding
+We onderscheiden drie situaties als aanleiding voor het leveren of melden
 van mutaties.
 
-1.  De ene partij muteert de eigen gegevens en levert deze mutaties aan de
+1.  De ene partij **muteert** de eigen gegevens en **levert** deze mutaties aan de
     andere partij.
-2.  De ene partij signaleert dat de situatie in de eigen registratie niet juist
-    is, muteert de gegevens in de eigen registratie en levert deze mutaties aan
+2.  De ene partij **signaleert** dat de situatie in de eigen registratie niet juist
+    is, **muteert** de gegevens in de eigen registratie en **levert** deze mutaties aan
     de andere partij.
-3.  De ene partij signaleert dat de situatie bij de andere partij een mogelijke
-    onjuistheid bevat, en meldt dit terug aan de andere partij, die hierop de
+3.  De ene partij **signaleert** dat de situatie bij de andere partij een mogelijke
+    onjuistheid bevat, en **meldt** dit terug aan de andere partij, die hierop de
     gegevens in de eigen registratie kan aanpassen.
 
 ## Mutatie- en meldservices
