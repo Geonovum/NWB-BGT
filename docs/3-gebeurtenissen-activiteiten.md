@@ -1,11 +1,7 @@
-Gebeurtenissen en activiteiten
-==============================
-
+# Gebeurtenissen en activiteiten
 In deze handreiking onderscheiden we gebeurtenissen en activiteiten.
 
-Gebeurtenissen
---------------
-
+## Gebeurtenissen
 **Gebeurtenissen** maken deel uit van een groter geheel, een proces.  Een
 **proces** bestaat uit een aaneenschakeling van stappen waarbij handelingen
 worden uitgevoerd die bijdragen tot het realiseren van een bepaald
@@ -20,36 +16,23 @@ van een weg. De procedure **Signaleringen** omvat alle gebeurtenissen en
 activiteiten naar aanleiding van de constatering van verandering aan een weg.
 
 **Administratieve gebeurtenissen bij Wijzigingen** zijn:
-
 -   vaststellen ontwerp weg
-
 -   besluit naamgeving openbare ruimte
-
 -   openstelling weg
-
 -   huisnummerbesluit
-
 -   Overdracht naar andere beheerder
-
 -   Gemeentegrens wijziging
-
 -   Verkeersbesluit
 
 **Fysieke gebeurtenissen bij Wijzingen** zijn:
-
 -   start aanleg weg
-
 -   start wegafsluiting/-omleiding i.v.m. langdurige bouwactiviteiten
 
 **Administratieve gebeurtenissen bij Signaleringen** zijn:
-
 -   constateringen weg
-
 -   corrigeren van gegevens
 
-Activiteiten
-------------
-
+## Activiteiten
 Een gebeurtenis is aanleiding (trigger) tot **activiteiten** om de registraties
 van NWB en/of BGT bij te werken. De activiteit na gebeurtenis 'vaststellen
 ontwerp weg' is bijvoorbeeld het opvoeren van planinformatie van de nieuwe weg
@@ -68,8 +51,7 @@ wat de herkomst is van het signaal dat de start vormt voor de activiteit. Iedere
 regel in de checklist vormt de basis voor een of meerdere activiteiten die
 moeten worden beschreven en uitgevoerd.
 
-![](media/92a8c18ed9b86cccbc727058a7835c71.png)
+![Checklist activiteiten](media/92a8c18ed9b86cccbc727058a7835c71.png)
 
-Processen
----------
+## Processen
 De laatste - en meest belangrijke stap - is het vertalen van deze activiteiten naar processtappen en tenslotte naar complete processen. Deze stap laten we graag aan de organisatie zelf. We zijn echter zeer geïnteresseerd in uw eigen uitwerking hiervan.
