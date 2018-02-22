@@ -31,7 +31,7 @@ mogelijke onjuistheid bij de andere partij wordt gemeld via een **meldservice**.
 Er zijn diverse **bestaande services, portalen en koppelingen** waar NWB en BGT
 op kunnen aansluiten.
 
-### Aansluiten op de BGT als wegbeheerder
+### Aansluiten wegbeheerder op de BGT
 Bent **wegbeheerder** dan kunt u **gegevens afnemen van de BGT** via de
 mutatieservices:
 
@@ -61,6 +61,7 @@ en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 -   In het **[Geo-BOR berichtenverkeer](https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11)** kan een beheerder van de openbare ruimte (groen, wegen, water e.d.) een melding doen aan de BGT dat er in een bepaald gebied een verkennend onderzoek nar de situatie of nieuwe inmeting moet worden verricht. Dit verzoek wordt uitgewisseld via een StUF-Geo IMGeo
     exploratieverzoek.
 
+## Aansluiten bronhouder op het NWB
 Bent **bronhouder** dan kunt u **gegevens afnemen van de NWB** via de
 mutatieservices:
 
@@ -71,7 +72,6 @@ mutatieservices:
     of een wegvak in die periode is vervallen, gewijzigd of ontstaan. Deze
     mutaties worden beschikbaar gesteld in de uitleverformaten Geographic Data
     Files (GDF) en Shape , Arc Info Coverage (AIC) of Arc Info Export (AIE).
-
 -   In **[PDOK](https://www.pdok.nl/)** zijn de gegevens van het NWB beschikbaar als [webservices](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/n)
      in formaat WMS en WFS.
 
