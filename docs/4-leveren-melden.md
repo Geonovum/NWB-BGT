@@ -52,7 +52,7 @@ en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
     dit systeem kunnen gebruikers een mogelijke onjuistheid melden door het
     prikken van een puntlocatie op een interactieve kaart en het toevoegen van
     een toelichting.
--   Het [**MutatieMeldSysteem (MMS)](http://svb-bgt.nl/community/forum+community/discussies+oud/discussie+overig/376831.aspx?t=mutatie+meld+systeem+(mms))** van het SVB-BGT helpt bronhouders de
+-   Het **[MutatieMeldSysteem (MMS)](http://svb-bgt.nl/community/forum+community/discussies+oud/discussie+overig/376831.aspx?t=mutatie+meld+systeem+(mms))** van het SVB-BGT helpt bronhouders de
     interne werkvoorraad met openstaande meldingen op BGT-gegevens en
     in-te-meten gebieden bijhouden. Als een bronhouder de wegbeheerder in de
     eigen organisatie toegang geeft kan ook de wegbeheerder meldingen toevoegen
