@@ -1,30 +1,110 @@
-# Gebeurtenissen
+Gebeurtenissen en activiteiten
+==============================
 
-Gebeurtenissen zijn voorvallen die plaatsvinden die tot veranderingen kunnen leiden in de registraties van NWB en BGT. 
+In deze handreiking onderscheiden we gebeurtenissen en activiteiten.
 
-De trigger kan zijn een fysieke verandering aan de weg, of een administratieve wijziging van een kenmerk van een weg.
+Gebeurtenissen
+--------------
 
-Voor NWB en BGT worden de volgende gebeurtenissen relevant geacht:
+**Gebeurtenissen** maken deel uit van een groter geheel, een proces.  Een
+**proces** bestaat uit een aaneenschakeling van stappen waarbij handelingen
+worden uitgevoerd die bijdragen tot het realiseren van een bepaald
+eindresultaat. Bijvoorbeeld het proces 'aanleg nieuwe weg' leidt tot het
+eindresultaat van een nieuwe weg in de openbare ruimte. Voorbeelden van
+gebeurtenissen zijn : 'vaststellen ontwerp weg' en 'openstellen weg'.
 
-1. **Aanleg nieuwe weg** een compleet nieuwe weg, meestal onderdeel van een groter plan
-2. **Openstelling weg**	het moment waarop de weg voor verkeer wordt opengesteld
-3. **Herstructurering weg**	een (omvangrijke) wijziging van de weg qua ligging en/of functie
-4. **Dagelijks onderhoud**	wijzigingen aan het materiaal van de weg
-5. **Constateringen weg**	signaleringen dat de beschrijving van de  weg in een gegevensverzameling niet overeenkomt met de fysieke werkelijkheid 
-6. **Naamgeving openbare ruimte**	Het besluit van het bevoegde gemeentelijke orgaan van toekenning van een naam aan een door als zodanig aangewezen  buitenruimte die binnen één woon­plaats is gelegen
-7. **Huisnummerbesluit**	Het besluit van het bevoegde gemeentelijke orgaan van toekenning van een aanduiding van een verblijfsobject, een standplaats of een ligplaats
-8. **Wegafsluiting/-omleiding** i.v.m. langdurige bouwactiviteiten	een wegdeel is voor een langere periode afgesloten voor verkeer vanwege aanpalende bouwactiviteiten
-9. **Corrigeren van gegevens**	Het aanpassen van de gegevensverzameling vanwege geconstateerde onjuiste vastlegging van de fysieke werkelijkheid
-10. **Overdracht naar andere beheerder**	een object wordt in beheer overgedragen aan een andereweg beheerder
-11. **Gemeentegrens wijziging**	
-12. **Verkeersbesluit**
-13. **Grenswijziging (provincie, kom)**	
+Om de gebeurtenissen te ordenen onderscheiden we de procedures Wijzigingen en
+Signaleringen. De procedure **Wijzigingen** omvat alle gebeurtenissen en
+activiteiten naar aanleiding van een een fysieke of administratieve verandering
+van een weg. De procedure **Signaleringen** omvat alle gebeurtenissen en
+activiteiten naar aanleiding van de constatering van verandering aan een weg.
 
-## Activiteiten
-Gebeurtenissen leiden tot **activiteiten** aan de kant van ofwel de wegbeheerder ofwel de bronhouder van de BGT. 
+**Administratieve gebeurtenissen bij Wijzigingen** zijn:
 
-Bij sommige gebeurtenissen bijvoorbeeld dagelijks onderhoud) hoeft een wegbeheerder of bronhouder niks te doen aan de registraties omdat er geen fysieke veranderingen of administratieve wijzigingen optreden.
+-   vaststellen ontwerp weg
 
-## Checklist
+-   besluit naamgeving openbare ruimte
+
+-   openstelling weg
+
+-   huisnummerbesluit
+
+-   Overdracht naar andere beheerder
+
+-   Gemeentegrens wijziging
+
+-   Verkeersbesluit
+
+**Fysieke gebeurtenissen bij Wijzingen** zijn:
+
+-   start aanleg weg
+
+-   start wegafsluiting/-omleiding i.v.m. langdurige bouwactiviteiten
+
+**Administratieve gebeurtenissen bij Signaleringen** zijn:
+
+-   constateringen weg
+
+-   corrigeren van gegevens
+
+Activiteiten
+------------
+
+Een gebeurtenis is aanleiding (trigger) tot **activiteiten** om de registraties
+van NWB en/of BGT bij te werken. De activiteit na gebeurtenis 'vaststellen
+ontwerp weg' is bijvoorbeeld het opvoeren van planinformatie van de nieuwe weg
+in de BGT, de activiteit die hoort bij gebeurtenis 'openstellen weg' is het
+aanleveren van gegevens over de nieuwe weg 6 weken voor de openstelling aan het
+NWB, en het wijzigen van de planinformatie van de nieuwe weg in bestaande
+topografie. Deze activiteiten kunnen in
+
+een volgende stap vervolgens worden geclusterd tot processen.
+
+Nu we de lijst gebeurtenissen compleet hebben, kunnen we aan de slag met de
+activiteiten die moeten worden uitgevoerd als gevolg van elk van deze
+gebeurtenissen. Daartoe hebben we een checklist opgesteld, waarvan hieronder een
+verkleinde weergave. De checklist is als een losse bijlage beschikbaar. Per
+gebeurtenis beschrijven we wát er in elk van de regsistraties moet gebeuren, en
+wat de herkomst is van het signaal dat de start vormt voor de activiteit. Iedere
+regel in de checklist vormt de basis voor een of meerdere activiteiten die
+moeten worden beschreven en uitgevoerd.
+
+![](media/92a8c18ed9b86cccbc727058a7835c71.png)
+
+Processen
+---------
+
+De laatste - en meest belangrijke stap - is het vertalen van deze activiteiten
+naar processtappen
+
+en tenslotte naar complete processen. Deze stap laten we graag aan de
+organisatie zelf. We zijn echter zeer geïnteresseerd in uw eigen uitwerking
+hiervan.
+
+|   |
+|---|
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+
+Checklist
+---------
 
 ![](media/8f6168ed9cc250493f09a171476481e3.png)
