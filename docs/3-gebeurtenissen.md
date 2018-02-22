@@ -60,11 +60,11 @@ topografie. Deze activiteiten kunnen in
 
 een volgende stap vervolgens worden geclusterd tot processen.
 
-Nu we de lijst gebeurtenissen compleet hebben, kunnen we aan de slag met de
+Nu we de lijst met gebeurtenissen compleet hebben, kunnen we aan de slag met de
 activiteiten die moeten worden uitgevoerd als gevolg van elk van deze
 gebeurtenissen. Daartoe hebben we een checklist opgesteld, waarvan hieronder een
 verkleinde weergave. De checklist is als een losse bijlage beschikbaar. Per
-gebeurtenis beschrijven we wát er in elk van de regsistraties moet gebeuren, en
+gebeurtenis beschrijven we wát er in elk van de registraties moet gebeuren, en
 wat de herkomst is van het signaal dat de start vormt voor de activiteit. Iedere
 regel in de checklist vormt de basis voor een of meerdere activiteiten die
 moeten worden beschreven en uitgevoerd.
