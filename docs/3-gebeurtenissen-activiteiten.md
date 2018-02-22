@@ -72,10 +72,4 @@ moeten worden beschreven en uitgevoerd.
 
 Processen
 ---------
-
-| De laatste - en meest belangrijke stap - is het vertalen van deze activiteiten naar processtappen en tenslotte naar complete processen. Deze stap laten we graag aan de organisatie zelf. We zijn echter zeer geïnteresseerd in uw eigen uitwerking hiervan. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                              |
+De laatste - en meest belangrijke stap - is het vertalen van deze activiteiten naar processtappen en tenslotte naar complete processen. Deze stap laten we graag aan de organisatie zelf. We zijn echter zeer geïnteresseerd in uw eigen uitwerking hiervan.
