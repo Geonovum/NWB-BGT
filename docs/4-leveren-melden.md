@@ -60,7 +60,7 @@ en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 -   In het **[Geo-BOR berichtenverkeer](https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11)** kan een beheerder van de openbare ruimte (groen, wegen, water e.d.) een melding doen aan de BGT dat er in een bepaald gebied een verkennend onderzoek nar de situatie of nieuwe inmeting moet worden verricht. Dit verzoek wordt uitgewisseld via een StUF-Geo IMGeo
     exploratieverzoek.
 
-## Aansluiten bronhouder op het NWB
+### Aansluiten bronhouder op het NWB
 Bent **bronhouder** dan kunt u **gegevens afnemen van de NWB** via de
 mutatieservices:
 
@@ -89,7 +89,7 @@ is als een losse bijlage beschikbaar.
 
 ![](media/b35c113b779b98b0f8dc463b79506253.png)
 
-## Mapping van NWB en BGT gegevens
+## Relevante NWB en BGT gegevens
 Niet elke wijziging van gegevens in de registratie van NWB of BGT is van belang
 voor de andere partij. Bijvoorbeeld het wijzigen van een wegbeheerdercode in het
 NWB heeft geen vloed op de gegevens van een wegdeel in de BGT, en het wijzigen
