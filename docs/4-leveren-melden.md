@@ -37,18 +37,18 @@ mutatieservices:
 
 -   **PDOK** is het distributiekanaal van de BGT\|IMGeo gegevens aan afnemers.
     De gegevens zijn open data en worden beschikbaar gesteld als
-    complete (download)[https://www.pdok.nl/nl/producten/pdok-downloads/download-basisregistratie-grootschalige-topografie]
+    complete [download](https://www.pdok.nl/nl/producten/pdok-downloads/download-basisregistratie-grootschalige-topografie)
     in de bestandsformaten IMGeo GML, GML Light en
     StUF-Geo IMGeo en via
-    (webservices)[https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/b] in de formaten WMTS en TMS. Op moment van schrijven ontwikkelt PDOK een generiek formaat voor het leveren van mutaties per objecttype via een API, en wordt
+    [webservices](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/b) in de formaten WMTS en TMS. Op moment van schrijven ontwikkelt PDOK een generiek formaat voor het leveren van mutaties per objecttype via een API, en wordt
     gewerkt aan de uitbreiding van de webservices met een WMS en WFS.
--   In het **(Geo-BOR berichtenverkeer)[https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11]**
+-   In het **[Geo-BOR berichtenverkeer](https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11)**
      levert de BGT-afdeling in een organisatie mutaties naar beheerders van de openbare ruimte (bijv. groen, wegen, water)
     via StUF-Geo IMGeo mutatieberichten.
 
 en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 
--   (VerbeterdeKaart)[https://verbeterdekaart.kadaster.nl/] is het officiële
+-   [VerbeterdeKaart](https://verbeterdekaart.kadaster.nl/) is het officiële
     terugmeldsysteem van de Basisregistratie Grootschalige Topografie (BGT). Met
     dit systeem kunnen gebruikers een mogelijke onjuistheid melden door het
     prikken van een puntlocatie op een interactieve kaart en het toevoegen van
@@ -58,19 +58,13 @@ en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
     in-te-meten gebieden bijhouden. Als een bronhouder de wegbeheerder in de
     eigen organisatie toegang geeft kan ook de wegbeheerder meldingen toevoegen
     aan de voorraad.
--   In het
-    https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11
-    **Geo-BOR koppelvlak** kan een beheerder van de openbare ruimte (groen,
-    wegen, water e.d.) een melding doen aan de BGT dat er in een bepaald gebied
-    een verkennend onderzoek nar de situatie of nieuwe inmeting moet worden
-    verricht. Dit verzoek wordt uitgewisseld via een StUF-Geo IMGeo
+-   In het **[Geo-BOR berichtenverkeer](https://www.geonovum.nl/wegwijzer/standaarden/geo-bor-berichtenverkeer-11)** kan een beheerder van de openbare ruimte (groen, wegen, water e.d.) een melding doen aan de BGT dat er in een bepaald gebied een verkennend onderzoek nar de situatie of nieuwe inmeting moet worden verricht. Dit verzoek wordt uitgewisseld via een StUF-Geo IMGeo
     exploratieverzoek.
 
 Bent **bronhouder** dan kunt u **gegevens afnemen van de NWB** via de
 mutatieservices:
 
--   Via de geoservices van Rijkswaterstaat
-    <https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/>
+-   Via de [geoservices van Rijkswaterstaat](https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/)
     worden de gegevens van het NWB beschikbaar gesteld als downloads volledig
     bestand (*NWB-Wegen*), en een bestand met wijzigingen in het netwerk tussen
     twee peildatums (*NWB-wegen mutaties*). Met een mutatiecode wordt aangegeven
@@ -78,9 +72,8 @@ mutatieservices:
     mutaties worden beschikbaar gesteld in de uitleverformaten Geographic Data
     Files (GDF) en Shape , Arc Info Coverage (AIC) of Arc Info Export (AIE).
 
--   In PDOK zijn de gegevens van het NWB beschikbaar als
-    <https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/n>
-    webservices in formaat WMS en WFS.
+-   In PDOK zijn de gegevens van het NWB beschikbaar als [webservices](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/n)
+     in formaat WMS en WFS.
 
 Bent **bronhouder** dan kunt u **mogelijke onjuistheden melden aan het NWB** via
 de meldservice:
@@ -108,4 +101,4 @@ opleveren (ofwel een **mapping van NWB en BGT gegevens**). Hieronder staat een
 verkleinde weergave van deze overzichtstabel. De overzichtstabel is als een
 losse bijlage beschikbaar.
 
-![](media/c5533a9771025aa4a6e03417092df47f.png)
+![Mapping van NWB en BGT gegevens](media/c5533a9771025aa4a6e03417092df47f.png)
