@@ -35,7 +35,7 @@ op kunnen aansluiten.
 Bent **wegbeheerder** dan kunt u **gegevens afnemen van de BGT** via de
 mutatieservices:
 
--   **PDOK** is het distributiekanaal van de BGT\|IMGeo gegevens aan afnemers.
+-   **[PDOK](https://www.pdok.nl/)** is het distributiekanaal van de BGT\|IMGeo gegevens aan afnemers.
     De gegevens zijn open data en worden beschikbaar gesteld als
     complete [download](https://www.pdok.nl/nl/producten/pdok-downloads/download-basisregistratie-grootschalige-topografie)
     in de bestandsformaten IMGeo GML, GML Light en
@@ -48,12 +48,12 @@ mutatieservices:
 
 en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 
--   [VerbeterdeKaart](https://verbeterdekaart.kadaster.nl/) is het officiële
+-   **[VerbeterdeKaart](https://verbeterdekaart.kadaster.nl/)** is het officiële
     terugmeldsysteem van de Basisregistratie Grootschalige Topografie (BGT). Met
     dit systeem kunnen gebruikers een mogelijke onjuistheid melden door het
     prikken van een puntlocatie op een interactieve kaart en het toevoegen van
     een toelichting.
--   Het **MutatieMeldSysteem** (MMS) van het SVB-BGT helpt bronhouders de
+-   Het [**MutatieMeldSysteem (MMS)](http://svb-bgt.nl/community/forum+community/discussies+oud/discussie+overig/376831.aspx?t=mutatie+meld+systeem+(mms))** van het SVB-BGT helpt bronhouders de
     interne werkvoorraad met openstaande meldingen op BGT-gegevens en
     in-te-meten gebieden bijhouden. Als een bronhouder de wegbeheerder in de
     eigen organisatie toegang geeft kan ook de wegbeheerder meldingen toevoegen
@@ -64,7 +64,7 @@ en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 Bent **bronhouder** dan kunt u **gegevens afnemen van de NWB** via de
 mutatieservices:
 
--   Via de [geoservices van Rijkswaterstaat](https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/)
+-   Via de **[geoservices van Rijkswaterstaat]**(https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/)
     worden de gegevens van het NWB beschikbaar gesteld als downloads volledig
     bestand (*NWB-Wegen*), en een bestand met wijzigingen in het netwerk tussen
     twee peildatums (*NWB-wegen mutaties*). Met een mutatiecode wordt aangegeven
@@ -72,7 +72,7 @@ mutatieservices:
     mutaties worden beschikbaar gesteld in de uitleverformaten Geographic Data
     Files (GDF) en Shape , Arc Info Coverage (AIC) of Arc Info Export (AIE).
 
--   In PDOK zijn de gegevens van het NWB beschikbaar als [webservices](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/n)
+-   In **[PDOK](https://www.pdok.nl/)** zijn de gegevens van het NWB beschikbaar als [webservices](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/n)
      in formaat WMS en WFS.
 
 Bent **bronhouder** dan kunt u **mogelijke onjuistheden melden aan het NWB** via
@@ -88,9 +88,7 @@ is als een losse bijlage beschikbaar.
 
 ![](media/b35c113b779b98b0f8dc463b79506253.png)
 
-Mapping van NWB en BGT gegevens
--------------------------------
-
+## Mapping van NWB en BGT gegevens
 Niet elke wijziging van gegevens in de registratie van NWB of BGT is van belang
 voor de andere partij. Bijvoorbeeld het wijzigen van een wegbeheerdercode in het
 NWB heeft geen vloed op de gegevens van een wegdeel in de BGT, en het wijzigen
