@@ -81,8 +81,10 @@ de meldservice:
 -   **het NWB-loket** via emailadres <nwb@rws.nl>, met de beschrijving van een
     mogelijke onjuistheid of andere opmerkingen op het NWB.
 
-De lijst met aanleidingen voor het leveren van mutaties en melden van mogelijk
-onjuistheden, en de mogelijke mutatie- en meldservices hebben we samengevat in
+
+
+De lijst met aanleidingen voor het leveren van mutaties en melden van mogelijke
+onjuistheden, en de beschikbare mutatie- en meldservices hebben we samengevat in
 overzichtstabel, waarvan hieronder een verkleinde weergave. De overzichtstabel
 is als een losse bijlage beschikbaar.
 
