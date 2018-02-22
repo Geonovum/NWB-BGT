@@ -28,8 +28,7 @@ mutatieservices en meldservices. Een mutatie in de eigen partij wordt via een
 **mutatieservice** geleverd aan de andere partij. Een signalering van een
 mogelijke onjuistheid bij de andere partij wordt gemeld via een **meldservice**.
 
-Er zijn diverse **bestaande services, portalen en koppelingen** waar NWB en BGT
-op kunnen aansluiten.
+Er zijn diverse **bestaande mutatie- en meldservices** als portalen en berichtenverkeer, waar wegbeheerder en bronhouder op kunnen aansluiten.
 
 ### Aansluiten wegbeheerder op de BGT
 Bent **wegbeheerder** dan kunt u **gegevens afnemen van de BGT** via de
