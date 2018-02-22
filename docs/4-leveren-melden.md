@@ -65,7 +65,7 @@ en kunt u **mogelijke onjuistheden melden aan de BGT** via de meldservices:
 Bent **bronhouder** dan kunt u **gegevens afnemen van de NWB** via de
 mutatieservices:
 
--   Via de **[geoservices van Rijkswaterstaat]**(https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/)
+-   Via de **[geoservices van Rijkswaterstaat](https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/nwb-wegen/)**
     worden de gegevens van het NWB beschikbaar gesteld als downloads volledig
     bestand (*NWB-Wegen*), en een bestand met wijzigingen in het netwerk tussen
     twee peildatums (*NWB-wegen mutaties*). Met een mutatiecode wordt aangegeven
