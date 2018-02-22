@@ -56,9 +56,8 @@ ontwerp weg' is bijvoorbeeld het opvoeren van planinformatie van de nieuwe weg
 in de BGT, de activiteit die hoort bij gebeurtenis 'openstellen weg' is het
 aanleveren van gegevens over de nieuwe weg 6 weken voor de openstelling aan het
 NWB, en het wijzigen van de planinformatie van de nieuwe weg in bestaande
-topografie. Deze activiteiten kunnen in
-
-een volgende stap vervolgens worden geclusterd tot processen.
+topografie. Deze activiteiten kunnen in een volgende stap vervolgens worden
+geclusterd tot processen.
 
 Nu we de lijst met gebeurtenissen compleet hebben, kunnen we aan de slag met de
 activiteiten die moeten worden uitgevoerd als gevolg van elk van deze
@@ -74,37 +73,9 @@ moeten worden beschreven en uitgevoerd.
 Processen
 ---------
 
-De laatste - en meest belangrijke stap - is het vertalen van deze activiteiten
-naar processtappen
-
-en tenslotte naar complete processen. Deze stap laten we graag aan de
-organisatie zelf. We zijn echter zeer geïnteresseerd in uw eigen uitwerking
-hiervan.
-
-|   |
-|---|
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-
-Checklist
----------
-
-![](media/8f6168ed9cc250493f09a171476481e3.png)
+| De laatste - en meest belangrijke stap - is het vertalen van deze activiteiten naar processtappen en tenslotte naar complete processen. Deze stap laten we graag aan de organisatie zelf. We zijn echter zeer geïnteresseerd in uw eigen uitwerking hiervan. |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
