@@ -51,7 +51,7 @@ Remco in ’t Hout (Rijkswaterstaat)
 
 Remco Mennegat (gemeente Hellendoorn)
 
-Richard Wittmer (Kadaster)
+Richard Witmer (Kadaster)
 
 Rob van der Schoot (Rijkswaterstaat)
 
