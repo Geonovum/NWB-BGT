@@ -1,23 +1,24 @@
 var respecConfig = {
-  specStatus: "GN-WV",
+  specStatus: "GN-VV",
   specType: "HR",
   //canonicalURI: "WV",
-  publishDate: "2018-02-23",
+  publishDate: "2018-03-30",
   editors: [
-     {
-      name: "Dick Krijtenburg",
-      company: "Geonovum",
-      companyURL: "http://www.geonovum.nl/",
-      mailto: "d.krijtenburg@geonovum.nl",
-      note: ""    
-    },  
     {
       name: "Arnoud de Boer",
       company: "Geonovum",
       companyURL: "http://www.geonovum.nl/",
       mailto: "a.deboer@geonovum.nl",
       note: ""    
+    },  
+     {
+      name: "Dick Krijtenburg",
+      company: "Geonovum",
+      companyURL: "http://www.geonovum.nl/",
+      mailto: "d.krijtenburg@geonovum.nl",
+      note: ""    
     }  
+     
   ],
   shortName: "NWB-BGT",
   pubDomain: "NWB-BGT", // Aanpassen na verplaatsing naar nieuwe Github repos 
